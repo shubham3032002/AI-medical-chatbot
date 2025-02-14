@@ -37,15 +37,6 @@ Groq LLM API Access
 #### result
 ![alt text](image.png)
 
-#### Project Structure
-
-medibot/
-├── app.py                 # Main application logic
-|__ creating_memory     # embedding and store in faiss           
-├── requirements.txt       # Required Python libraries
-├── vectorstore/           # Folder for FAISS vector database
-│   └── db_faiss           # Medical knowledge base
-└── README.md              # Documentation file
 
 ##### Disclaimer
 MediBot is an AI tool designed to assist with general medical queries. It is NOT a substitute for professional medical advice, diagnosis, or treatment. Always consult a healthcare professional for serious concerns.
